@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup 
 import boilerpy3 
 from boilerpy3 import extractors 
-import json 
 import csv
 from io import StringIO
 from html.parser import HTMLParser
